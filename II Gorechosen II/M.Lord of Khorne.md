@@ -1,13 +1,11 @@
 # Mighty Lord of Khorne (Scourge of Ghyran) - 180 pts 
-###  `Move 5"`  `Health 7` `Save 3+` `Control 2` 
-
-### `Ward - ` 
+>###  `Move 5"`  `Health 7` `Save 3+` `Control 2` `Ward - ` 
 
 
-> Axe of Khorne  
+>### Axe of Khorne  
 > `Atk 4` `Hit 3+` `Wnd 3+` `Rnd 2` `Dmg 3`  `Blood-hungry`
 
-> Flesh Hound’s Blood-dark Claws
+>### Flesh Hound’s Blood-dark Claws  
 > `Atk 3` `Hit 4+` `Wnd 3+` `Rnd -` `Dmg 1` `Companion`
                   
 
