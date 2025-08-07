@@ -1,4 +1,4 @@
-// Mighty Lord of Khorne (Scourge of Ghyran) - 180 pts 
+Mighty Lord of Khorne (Scourge of Ghyran) - 180 pts 
 
 Move	Health	Save	Control
 5"		7		3+		2
