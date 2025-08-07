@@ -1,5 +1,7 @@
 # Mighty Lord of Khorne (Scourge of Ghyran) - 180 pts 
-###  `Move 5"`  `Health 7` `Save 3+` `Control 2` `Ward - ` 
+###  `Move 5"`  `Health 7` `Save 3+` `Control 2` 
+
+### `Ward - ` 
 
 
 > Axe of Khorne  
