@@ -1,7 +1,7 @@
 Mighty Lord of Khorne (Scourge of Ghyran) - 180 pts 
 
 Move	Health	Save	Control
-5"		7		    3+		2
+5"		7		3+		2
 
 Melee Weapon	Atk	Hit	Wnd	Rnd	Dmg	Ability
 Axe of Khorne	4	3+	3+	2	3	Blood-hungry
