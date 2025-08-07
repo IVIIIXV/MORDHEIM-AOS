@@ -3,10 +3,10 @@
 
 
 > Axe of Khorne  
-> `Atk 4` `Hit 3+` `Wnd 3+` `Rnd 2` `Dmg 3`  `Ability Blood-hungry`
+> `Atk 4` `Hit 3+` `Wnd 3+` `Rnd 2` `Dmg 3`  `Blood-hungry`
 
 > Flesh Hound’s Blood-dark Claws
-> `Atk 3` `Hit 4+` `Wnd 3+` `Rnd -` `Dmg 1` `Ability Companion`
+> `Atk 3` `Hit 4+` `Wnd 3+` `Rnd -` `Dmg 1` `Companion`
                   
 
 
